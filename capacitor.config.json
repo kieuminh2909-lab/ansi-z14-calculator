@@ -1,0 +1,6 @@
+{
+  "appId": "com.kieuminh.ansiz14",
+  "appName": "ANSI Z1.4 Calculator",
+  "webDir": "dist",
+  "android": { "allowMixedContent": false }
+}
